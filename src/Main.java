@@ -1,6 +1,5 @@
-import interface_package.TaxCalculator;
-import interface_package.TaxCalculator2019;
-import interface_package.TaxCalculator2020;
+import basic_oop.interface_package.TaxCalculator;
+import basic_oop.interface_package.TaxCalculator2019;
 
 public class Main {
     public static void main(String[] args) {

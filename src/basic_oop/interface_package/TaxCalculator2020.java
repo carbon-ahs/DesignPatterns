@@ -1,4 +1,4 @@
-package interface_package;
+package basic_oop.interface_package;
 
 public class TaxCalculator2020 implements TaxCalculator{
     @Override

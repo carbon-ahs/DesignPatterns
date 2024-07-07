@@ -1,4 +1,4 @@
-package interface_package;
+package basic_oop.interface_package;
 
 public interface TaxCalculator {
     float calculateTax();
