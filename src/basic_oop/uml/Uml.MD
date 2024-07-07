@@ -21,19 +21,25 @@ public class Circle extends Shape{
 ```
 
 <h2>Composition</h2>
+
 ```
+
 public class Circle{
     private Size size;
 }
+
 ```
 
 <h2>Dependency</h2>
+
 ```
+
 public class Circle{
     private Size size;
     private void render(Document doc){
     }
 }
+
 ```
-UML -
+UML 
 
