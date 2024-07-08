@@ -19,6 +19,7 @@
   - how to write MD file & README.md
     - https://www.youtube.com/watch?v=_PPWWRV6gbA
   - OOP inheritance assignment
+  - [x] Level up My markdown skill  
 
 <br>
 <br>
