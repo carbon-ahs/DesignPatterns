@@ -15,10 +15,10 @@
 <br>
 <br>
 - **Day 2**
-  - 00/07/2024
+  - 08/07/2024
   - how to write MD file & README.md
     - https://www.youtube.com/watch?v=_PPWWRV6gbA
-  
+  - OOP inheritance assignment
 
 <br>
 <br>
